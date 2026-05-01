@@ -14,7 +14,7 @@ _Developing a comprehensive Power BI dashboard by integrating Excel and SQL data
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#final-recommendations">Final Recommendations</a>
-- <a href="#author--contact">Author & Contact</a>
+- <a href="#author--contact">Author 
 
 ---
 
@@ -129,11 +129,11 @@ The **Power BI dashboard** provides:
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Pranay Joshi**  
+**LISHA BHOWMIK **  
 
-Data Analyst  | Business Intelligence Enthusiast
+Data Analyst  | Bussiness Analyst | 
 
-📧 Email: pranayjoshi0711@gmail.com
+📧 Email: bhowmiklisha7@gmail.com 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pranay-joshi-2b9bba246/)  
-🔗 [Portfolio](https://github.com/pranayjoshi0711-svg)
+🔗 [LinkedIn](www.linkedin.com/in/zeagel)  
+
