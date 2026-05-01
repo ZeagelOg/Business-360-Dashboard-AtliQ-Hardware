@@ -129,7 +129,7 @@ The **Power BI dashboard** provides:
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**LISHA BHOWMIK **  
+**LISHA BHOWMIK**  
 
 Data Analyst  | Bussiness Analyst | 
 
