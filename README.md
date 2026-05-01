@@ -135,5 +135,5 @@ Data Analyst  | Bussiness Analyst |
 
 📧 Email: bhowmiklisha7@gmail.com 
 
-🔗 [LinkedIn](www.linkedin.com/in/zeagel)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zeagel/)  
 
